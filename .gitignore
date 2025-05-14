@@ -1,0 +1,16 @@
+# Ігнорувати середовище
+venv/
+.env
+
+# Кеші Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
